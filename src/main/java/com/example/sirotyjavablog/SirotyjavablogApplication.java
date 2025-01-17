@@ -11,3 +11,4 @@ public class SirotyjavablogApplication {
 	}
 
 }
+// убраны лишние строчки//
